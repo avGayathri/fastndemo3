@@ -1,3 +1,5 @@
+-- import: fastndemo3/lib.ftd
+
 -- lib.help: 
 icon: $assets.files.assets.question-sign-circles_41943.png
 cta-text-1: HELP

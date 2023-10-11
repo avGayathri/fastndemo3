@@ -8,10 +8,10 @@ favicon: /-/avgayathri.github.io/fastndemo3/favicon.ico
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 -- fastn.dependency: fastn-community.github.io/dark-flame-cs
 
--- fastn.auto-import: avgayathri.github.io/fastndemo3/FASTN/ds
+
 -- fastn.auto-import: avgayathri.github.io/fastndemo3/assets
--- fastn.auto-import: doc-site
--- fastn.auto-import: fastndemo3\lib.ftd
+
+
 
 
 
