@@ -14,8 +14,4 @@ favicon: /-/avgayathri.github.io/fastndemo3/favicon.ico
 -- fastn.auto-import: fastndemo3\lib.ftd
 
 
--- fastn.sitemap:
 
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
