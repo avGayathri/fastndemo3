@@ -1,6 +1,38 @@
--- import: fastndemo3/lib.ftd
+;;-- import: lib.ftd
+-- component help:
+ftd.image-src icon:
+string cta-text-1:
+string cta-link-1:
 
--- lib.help: 
+
+
+-- ftd.row:
+spacing.fixed.px: 15
+width: fill-container
+padding.px: 10
+
+-- ftd.image:
+src: $help.icon
+width.fixed.px: 55
+height: auto
+border-radius.px: 20
+margin-vertical.px: 10
+
+
+-- ftd.text: $help.cta-text-1
+text-align: center
+margin-vertical.px: 28
+margin-horizontal.px: 32
+link: $help.cta-link-1
+
+-- end: ftd.row
+
+-- end: help
+
+
+
+
+-- help: 
 icon: $assets.files.assets.question-sign-circles_41943.png
 cta-text-1: HELP
 cta-link-1: https://fastnui.trizwit.com/
