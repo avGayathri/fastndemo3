@@ -1,4 +1,4 @@
 -- lib.help: 
-icon: images/question-sign-circles_41943.png
+icon: $assets.files.assets.question-sign-circles_41943.png
 cta-text-1: HELP
 cta-link-1: https://fastnui.trizwit.com/
